@@ -4,6 +4,9 @@ UILabel extension to generate dynamic long shadow effects in swift.
 ## How shoud you use
 Just add the file to your project, and apply the effect as you want.
 
+###Cocoapods support added
+pod 'LongShadow'
+
 ```swift
 @IBOutlet weak var textLabel: UILabel!
 @IBOutlet weak var detailTextLabel: UILabel!
