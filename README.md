@@ -1,4 +1,4 @@
-# ProgressNode
+# LongShadow
 UILabel extension to generate dynamic long shadow effects in swift.
 
 ## How shoud you use
